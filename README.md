@@ -17,3 +17,6 @@ result=cs.cmap(func1,argIter)
 result[0]
 
 If the job has finished it will display the result. If it has not finished then it will raise an 'UnfinishedCondorJob' exception.
+
+
+I am currently cleaning up the code and will submit the version in a week or so.
