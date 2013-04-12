@@ -1,4 +1,4 @@
-condorSubmit
+condorPythonShell
 ============
 
 A set of Python scripts that allows python jobs to be submitted to a condor cluster via the command line. The script writes a submit file for each job and then runs condor_submit. It is currently limited to systems with a shared filesystem.
